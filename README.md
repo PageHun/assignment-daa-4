@@ -1,5 +1,7 @@
 # DAA Assignment 4 – Dynamic Programming and String Algorithms
 
+**Repository:** https://github.com/pagehun/assignment-daa-4 (tag `v1.0`)
+
 ## Project layout
 
 ```
